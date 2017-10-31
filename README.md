@@ -5,7 +5,11 @@ Meetup 2017 11 01 about Recurrent Neural Networks
 
 ## Dependencies
 
-## Use
+## Usage
+
+Type `jupyter notebook` into terminal and the code will pop up in your browser.
+
+More on [notebooks](http://jupyter.org/)
 
 ## Notes
 
