@@ -20,6 +20,10 @@ Type `jupyter notebook` into terminal and the code will pop up in your browser.
 
 More on [notebooks](http://jupyter.org/).
 
+## Note
+
+The code has been updated to be used with tensorflow >= 1.0 and can both work with Python2 and Python3 (although we strongly recommend to use Python3).
+
 ## Credits
 
 We basically wrapped the very nice two first tutorials of Erik Hallström:
