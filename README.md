@@ -23,4 +23,9 @@ More on [notebooks](http://jupyter.org/).
 
 ## Credits
 
+We basically wrapped the very nice two first tutorials of Erik Hallström:
+
+- [How to build a Recurrent Neural Network in TensorFlow (1/7)](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767)
+- [Using the RNN API in TensorFlow (2/7)](https://medium.com/@erikhallstrm/tensorflow-rnn-api-2bb31821b185)
+
 
